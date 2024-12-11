@@ -19,4 +19,3 @@ Main Features of the Program:
     Remove a task: Remove a task by its number in the list.
     Mark as completed: Mark a task as completed if it's done.
     Save to file: Save the current task list to a file for later use.
-    Load from file: Load previously saved tasks upon the next program launch.
